@@ -17,4 +17,4 @@ There are 4 sql queries to generate the excel files by which we have created the
 
 ## profile link to view Dashboard
 
-https://public.tableau.com/app/profile/souvik.roy2411/viz/Book1_16726665233820/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/souvik.roy7740/viz/covidData_16998048886730/Dashboard1?publish=yes
